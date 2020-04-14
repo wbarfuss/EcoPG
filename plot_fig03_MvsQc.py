@@ -117,7 +117,7 @@ plt.gca().add_artist(legend2)
 plt.subplots_adjust(top=0.89, bottom=0.13, left=0.11, right=0.64, hspace=0.2,
                     wspace=0.2)
 
-plt.savefig("../figs/fig03_MvsQc.png", dpi=300)
+plt.savefig("figs/fig03_MvsQc.png", dpi=300)
 
 
 
@@ -194,4 +194,4 @@ plt.xlabel(r"Collapse risk leverage $q_c$")
 plt.ylabel(r"Collapse impact $m$")
 plt.tight_layout()
 
-plt.savefig("../figs/SIfig_MvsQc.png", dpi=300)
+plt.savefig("figs/SIfig_MvsQc.png", dpi=300)

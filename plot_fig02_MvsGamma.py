@@ -88,4 +88,4 @@ fig.colorbar(cb, extend="max", extendrect=True, extendfrac=cbextendfrac,
              orientation="horizontal", cax=cbax,
              label=r"Discount factor $\gamma$")
 
-plt.savefig("../figs/fig02_MvsGamma.png", dpi=300)
+plt.savefig("figs/fig02_MvsGamma.png", dpi=300)

@@ -128,7 +128,7 @@ legend2 = ax12.legend(handles=legend_elements2, bbox_to_anchor=(0.5+dlx, ly),
                       loc='lower right',
                       borderaxespad=0., frameon=False)
 
-plt.savefig("../figs/fig04_MvsN.png", dpi=300)
+plt.savefig("figs/fig04_MvsN.png", dpi=300)
 
 
 
@@ -230,5 +230,5 @@ legend2 = ax12.legend(handles=legend_elements1, bbox_to_anchor=(0.5+dlx, ly),
                       loc='lower right',
                       borderaxespad=0., frameon=False)
 
-plt.savefig("../figs/SIfig_MvsN_fcbc.png", dpi=300)
+plt.savefig("figs/SIfig_MvsN_fcbc.png", dpi=300)
 

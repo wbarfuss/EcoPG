@@ -237,4 +237,4 @@ cbar = fig.colorbar(cb, extend="max", extendrect=True,
                     extendfrac=0.05, orientation="vertical", cax=cbax,
                     label=r"Critical discount factor $\gamma_{crit}$")
 
-plt.savefig("../figs/fig05_LD.png", dpi=300)
+plt.savefig("figs/fig05_LD.png", dpi=300)
