@@ -12,5 +12,5 @@ Python implementation of the Ecological Public Good model to create the figures 
 ## Reference
 Barfuss W, Donges JF, Vasconcelos VV, Kurths J, Levin SA (2020)
 *Caring for the future can turn tragedy into comedy for long-term collective action under risk of collapse*,
-accepted for publication in PNAS.
+Proceedings of the National Academy of Sciences, 117(23), 12915-12922 
 
